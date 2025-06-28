@@ -17,6 +17,10 @@ Criar o arquivo composer.json com a instrução básica.
 ```
 composer init
 ```
+Instalar o pacote de logs do monolog php.
+```
+composer require monolog/monolog
+```
 
 ## Como usar o GitHub
 Baixar os arquivos do Git.
